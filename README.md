@@ -1,4 +1,3 @@
-# Project1_Zomato_Rating
 # 🍽️ Zomato Restaurant Rating Prediction – End-to-End ML Project
 
 ## 📌 Project Overview
